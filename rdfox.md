@@ -4,5 +4,5 @@
 The triplestore data model is focused on the storage and retrieval of triples. It is different from a relational database since triplestore databases are optimized for the storage and retrieval of triples.
 
 References:
--Triplestore Wikipedia https://en.wikipedia.org/wiki/Triplestore
--RDFox Documentation https://docs.oxfordsemantic.tech/index.html
+- Triplestore Wikipedia https://en.wikipedia.org/wiki/Triplestore
+- RDFox Documentation https://docs.oxfordsemantic.tech/index.html
