@@ -4,5 +4,5 @@
 
 References:
 - MySQL Wikipedia https://en.wikipedia.org/wiki/MySQL
-- What is MySQL https://www.oracle.com/mysql/what-is-mysql/
+- What is MySQL? https://www.oracle.com/mysql/what-is-mysql/
 - Connectors and API's https://dev.mysql.com/doc/index-connectors.html
